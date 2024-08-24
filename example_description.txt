@@ -1,5 +1,3 @@
-Certainly! Below is an example where the Singleton pattern is clearly needed but wasn't implemented, leading to issues. The example includes multiple classes with minimal methods, demonstrating the problem in a more complex scenario.
-
 ### Scenario: Logging System without Singleton
 
 #### Context:
